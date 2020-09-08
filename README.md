@@ -2,7 +2,7 @@
 # Basic Calculator Using Flask
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
 
-
+This is my first project on Flask web framework. There are basic operations like addition,subtraction,division,multiplication,power,and mod.
 
 
 
