@@ -8,7 +8,7 @@
 
 ## Frameworks / Tools Used
 1. [Bootstrap](https://getbootstrap.com/) - for creating the front-end
-2. [Flask](https://www.tutorialspoint.com/flask/index.htm) - Flask is a web application framework written in Python.
+2. [Flask](https://www.tutorialspoint.com/flask/index.htm) - a web application framework written in Python.
 
 
 
