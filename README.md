@@ -1,3 +1,15 @@
-<h1>Calculator using Flask</h1>
-<p>This is my first project using flask.</p>
-<p>In that project simply i performed four operations that is addition, substraction, multiplication and division</p>
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://ipldash.herokuapp.com)
+# Basic Calculator
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](#)
+
+
+
+
+
+## Frameworks / Tools Used
+1. [Bootstrap](https://getbootstrap.com/) - for creating the front-end
+2. [Flask](https://www.tutorialspoint.com/flask/index.htm) - Flask is a web application framework written in Python.
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)

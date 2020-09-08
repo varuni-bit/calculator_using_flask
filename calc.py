@@ -9,7 +9,7 @@ def welcome():
     return render_template('form.html')
 
 
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['POST','GET'])
 def result():
     var_1 = request.form.get("var_1", type=int)
     var_2 = request.form.get("var_2", type=int)
@@ -22,6 +22,10 @@ def result():
         result = var_1 * var_2
     elif(operation == 'Division'):
         result = var_1 / var_2
+    elif(operation == 'Mod'):
+        result = var_1 % var_2
+    elif(operation == 'Power'):
+        result = var_1 ** var_2
     else:
         result = 'INVALID CHOICE'
     entry = result
